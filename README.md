@@ -18,4 +18,4 @@ I'm Jérémie, IT project manager from **Angers, France**.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Weather
-Angers: 🌧   +7°C
+Angers: 🌧   +12°C
