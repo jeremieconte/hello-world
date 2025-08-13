@@ -1,21 +1,67 @@
-# Hi there 👋
+<div align="center">
+  <h1>
+    Hello World! I'm Jérémie Conte 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=jeremieconte&style=flat-square&color=blue)
+</div>
 
-I'm Jérémie, IT project manager from **Angers, France**.
+---
 
-## I use often :
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### 👨‍💻 About Me:
 
-## Weather
-Angers: 🌧   +12°C
+I'm a Software Engineer and SCRUM Project Manager specialized in web applications for the public sector. Based in France 🇫🇷, I bring together technical expertise and user-centered design to create impactful solutions.
+
+🎯 **Current Focus:**
+- 📊 Leading SCRUM projects in Social Services and Healthcare Information Systems
+- 🎨 Designing intuitive and accessible user interfaces
+- ♿ Implementing RGAA accessibility standards
+- 🌐 Building web applications that serve the public sector
+
+### 🛠️ My Professional Arsenal:
+
+**Project Management & Methodologies:**
+- 📋 SCRUM Master
+- 🔄 Agile Methodologies
+- 📊 Project Planning & Coordination
+
+**Design & User Experience:**
+- 🎨 UI/UX Design
+- ♿ RGAA Accessibility Expert
+- 🎯 User-Centered Design
+- 🖌️ Interface Design
+
+**Technical Skills:**
+- 💻 Software Engineering
+- 🌐 Web Development
+- 📱 Responsive Design
+- 🔍 Requirements Analysis
+
+### 📈 GitHub Activity:
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremieconte&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremieconte&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremieconte&layout=compact&theme=radical)
+
+</div>
+
+### 🌟 Expertise Domains:
+
+- 🏥 Healthcare Information Systems
+- 👥 Social Services Applications
+- 🤝 Public Sector Solutions
+- 🔐 Accessibility Compliance
+- 📋 Project Management
+- 🎨 UX/UI Design
+
+
+---
+
+<div align="center">
+  <img src="https://github.com/jeremieconte/jeremieconte/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
