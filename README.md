@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hello World! I'm Jérémie Conte 
+    Hello World! I'm Jérémie 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
@@ -61,7 +61,3 @@ I'm a Software Engineer and SCRUM Project Manager specialized in web application
 
 
 ---
-
-<div align="center">
-  <img src="https://github.com/jeremieconte/jeremieconte/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
